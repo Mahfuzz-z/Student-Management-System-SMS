@@ -63,30 +63,7 @@
     </div>
 
     
-                
-            </div>
-        </div>
-        <div class="col-sm-12 col-md-6 text-center  my-2">
-            <h3 class=" bg-info border border-success py-3 rounded">Notice</h3>
-            <div class="border text-left ">
-                <ol>
-                    <li><a href="https://www.google.com">Holiday for picnix</a></li>
-                    <li><a href="#">Participation in orientatio</a></li>
-                    <li><a href="https://www.google.com">Holiday for picnix</a></li>
-                    <li><a href="#">Participation in orientatio</a></li>
-                    <li><a href="https://www.google.com">Holiday for picnix</a></li>
-                    <li><a href="#">Participation in orientatio</a></li>
-                </ol>
-                
-            </div>
-        </div>
-    </div>
-
-
-</div>
-
-
-
+        
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
