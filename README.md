@@ -1,2 +1,9 @@
 # Student-Management-System-SMS--Web-based
-The proposed student management system is a web-based student management system. This system helps an educational institution to manage the automated admission process and roll allocation for new students who want to admit to the desired institution. This system helps with all kinds of academic information like results, payment profile.
+Student Management System is software which is helpful for students as well as the in-
+stitutional authorities. In the current system all the activities are done manually. It is
+very time consuming and costly. Our Student Management System deals with the various
+activities related to the students. In the Software we can register as a user and user has
+of three types, student,faculty and administrator. Administrator has the power to add new
+user and can edit and delete a user. A student can register as user. The administrator can
+add edit and delete marks for the student. All the users can see the marks.Also faculty can
+submit marks and viewing result etc.
