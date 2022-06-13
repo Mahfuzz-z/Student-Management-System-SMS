@@ -62,19 +62,7 @@
         </div>
     </div>
 
-    <!-- Notice and events -->
-    <div class="row">
-        <div class="col-sm-12 col-md-6 text-center  my-2">
-            <h3 class="bg-info border border-success py-3 rounded" ">Events</h3>
-            <div class="border text-left ">
-                <ol>
-                    <li><a href="#">Annual picnic</a></li>
-                    <li><a href="#">Freshment orientatio</a></li>
-                    <li><a href="#">Annual picnic</a></li>
-                    <li><a href="#">Freshment orientatio</a></li>
-                    <li><a href="#">Annual picnic</a></li>
-                    <li><a href="#">Freshment orientatio</a></li>
-                </ol>
+    
                 
             </div>
         </div>
