@@ -15,36 +15,22 @@
   <body>
   
   <div class="container">
+   <div class="mt-3">
+               <div id="student_form" class="">
+                  <h3 class="bg-success text-center text-white p-4 md-3 font-weight-bolder">Student Login</h3>
+                  <form action="student_process.php" method="post" ><label for="studentemail">Enter your email:</label>
+                     <input type="email" name="email" class="form-control form-control-lg p-3 mb-3" id="studentemail" placeholder="Email" required>
+                     <label for="studentpassword">Enter your password:</label>
+                     <input type="password" name="password" class="form-control form-control-lg p-3 mb-3" id="studentpassword" placeholder="Password" required>
+                     <button type="submit" name="login" class=" d-block m-auto bg-dark font-weight-bold px-5  py-3 text-white ">Log in</button>
+                     <p>
+  		                  Not any account? <a href="online_admission.php">Sign up</a>
+  	                  </p>
+                  </form>
+               </div>
 
-   <div class="col-sm-12 ">
-      <h1 class="border p-3 bg-success text-center text-white m-5">Log in as</h1>
+   
    </div>
-
-   <div class="col-md-6 col-sm-12 m-auto">
-      <form action="" method="post" target="">
-                <button class="btn btn-secondary text-white p-2 btn-block md-5" name="stlogin_button" >Student Login</button>
-                <button class="btn btn-secondary text-white p-2 btn-block md-5" name="faculty_login_button" >Faculty Login</button>
-                <button class="btn btn-secondary text-white p-2 btn-block md-5" name="admin_login_button" >Admin Login</button>
-                
-
-            </form>
-            <?php
-            if(isset($_POST['stlogin_button'])){
-                Header("Location:student_login.php");
-            }
-            if(isset($_POST['faculty_login_button'])){
-                Header("Location:faculty_login.php");
-            }
-            if(isset($_POST['admin_login_button'])){
-                Header("Location:admin_login.php");
-            }
-            ?>
-     
-            </div>
-      
-   </div>
-
-
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
