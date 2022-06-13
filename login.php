@@ -28,7 +28,19 @@
                 
 
             </form>
-            
+     
+     
+            <?php
+            if(isset($_POST['stlogin_button'])){
+                Header("Location:student_login.php");
+            }
+            if(isset($_POST['faculty_login_button'])){
+                Header("Location:faculty_login.php");
+            }
+            if(isset($_POST['admin_login_button'])){
+                Header("Location:admin_login.php");
+            }
+            ?>
 
 
 
